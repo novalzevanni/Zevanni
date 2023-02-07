@@ -1,2 +1,2 @@
 # Zevanni
-pembuatan template website sedderhana
+seorang anak yang berjuang demi harapan sang orang tua
