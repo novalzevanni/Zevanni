@@ -1,4 +1,20 @@
-body {
-  background-color: aquamarine;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+body{
+    background-color: #616571;
+    color: #070706;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.awal{
+ font-family: Arial,  sans-serif; 
+}
+
+.nav{
+    background-color: #1c2c5f;
+}
+.hero{
+    background-color: #7c8299;
+}
+
+.jurusan{
+    background-color: #26355e;
+    
 }
