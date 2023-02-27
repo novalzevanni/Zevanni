@@ -1,20 +1,22 @@
 body{
-    background-color: #616571;
+    background-color: #605c47;
     color: #070706;
     font-family: Arial, Helvetica, sans-serif;
 }
-.awal{
+.header{
  font-family: Arial,  sans-serif; 
+ background-color: #aa7700;
+ 
 }
 
-.nav{
-    background-color: #1c2c5f;
-}
-.hero{
-    background-color: #7c8299;
+.main{
+    background-color: #abab26;
+    color: black;
+    color: white;
 }
 
-.jurusan{
-    background-color: #26355e;
+.akhir{
+    background-color: #918f20;
+    
     
 }
