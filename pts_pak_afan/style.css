@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-family:sans-serif;
+}
+
+tr:nth-child(odd) td {
+  background-color: blue;
+}
+
+tr:nth-child(even) td {
+  background-color: skyblue;
+}
+
+tr:nth-child(odd) td:hover {
+  background-color: green;
+}
+
+tr:nth-child(odd) td:active {
+  background-color: red;
+}
+
+tr:nth-child(even) td:hover {
+  background-color: yellow;
+}
+
+tr:nth-child(even) td:active {
+  background-color: black;
+}
